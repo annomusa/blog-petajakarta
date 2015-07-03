@@ -17,7 +17,7 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('WP_CACHE', true); //Added by WP-Cache Manager
-define( 'WPCACHEHOME', 'C:\Users\Otniel Yeheskiel\Documents\GitHub\blog-petajakarta\wp-content\plugins\wp-super-cache/' ); //Added by WP-Cache Manager
+define( 'WPCACHEHOME', 'C:\Users\otniel\Documents\GitHub\blog-petajakarta\wp-content\plugins\wp-super-cache/' ); //Added by WP-Cache Manager
 define('DB_NAME', 'blogjakarta');
 
 /** MySQL database username */
