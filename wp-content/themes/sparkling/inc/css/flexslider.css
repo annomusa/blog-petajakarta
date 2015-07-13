@@ -109,8 +109,8 @@ html[xmlns] .slides {display: block;}
   padding: 12px 20px;
 }
 .flex-caption h2 {
-  background: rgb(218, 68, 83);
-  background: rgba(218, 68, 83, 0.7);
+  background: rgb(0, 170, 238);
+  background: rgba(0, 170, 238, 0.7);
   font-weight: 400;
   font-size: 24px;
   max-width: 640px;

@@ -16,15 +16,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('WP_CACHE', true); //Added by WP-Cache Manager
-define( 'WPCACHEHOME', 'C:\Users\otniel\Documents\GitHub\blog-petajakarta\wp-content\plugins\wp-super-cache/' ); //Added by WP-Cache Manager
-define('DB_NAME', 'blogjakarta');
+define('DB_NAME', 'sriumiya_wp276');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'sriumiya_wp276');
 
 /** MySQL database password */
-define('DB_PASSWORD', '');
+define('DB_PASSWORD', '-PN74t71@S');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -44,14 +42,14 @@ define('DB_COLLATE', '');
  *
  * @since 2.6.0
  */
-define('AUTH_KEY',         'put your unique phrase here');
-define('SECURE_AUTH_KEY',  'put your unique phrase here');
-define('LOGGED_IN_KEY',    'put your unique phrase here');
-define('NONCE_KEY',        'put your unique phrase here');
-define('AUTH_SALT',        'put your unique phrase here');
-define('SECURE_AUTH_SALT', 'put your unique phrase here');
-define('LOGGED_IN_SALT',   'put your unique phrase here');
-define('NONCE_SALT',       'put your unique phrase here');
+define('AUTH_KEY',         '3f0ktzftpukzym2zrdebgzicmxqgfevbvzs7abcw4fhj49cuxowxaqik21xme1ni');
+define('SECURE_AUTH_KEY',  'gogwhntxptukjbyglrhxzpry8nslq2bixosubabrxh78ornxyq3qrubjfu1bqmee');
+define('LOGGED_IN_KEY',    'urebydmkk5o8yhwdnrehf4oxg9g7mrp1fntteozpcuha8wthcf2a7iy2ftkwhnj9');
+define('NONCE_KEY',        'a39ua9qvklcdxhn2tw9fsldkpuhrnviuumketfunhkftkha959vosppdrgqhd6t9');
+define('AUTH_SALT',        '8yqoa9tugaez2dsv3lsoi53efkynnh8wgvg2yqb9b5nwzmxkfar9emf7l6h2obsc');
+define('SECURE_AUTH_SALT', 'ro0lmtckgwbpvkpcirskubv7vrhlgckjhodspbhw8ip5ma50cnyxvw98ktfmmbo8');
+define('LOGGED_IN_SALT',   'granod2i7cphg4rvvsh67lnday0p3gzpgjoqajznnez7zfem4yjwydutl7syqpaf');
+define('NONCE_SALT',       'pgsjq8wmv1iadvvfixvt6bnripd3akmjg8c3frhkkugsoewfvvar6rg48ud2owv3');
 
 /**#@-*/
 
